@@ -1,0 +1,7 @@
+__pycache__
+__pycache__/*
+test.py
+.vscode
+.vscode/*
+dependencies.dot
+dependencies.png
